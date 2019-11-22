@@ -1,5 +1,5 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Sara Hernandez's Website
 
 This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
